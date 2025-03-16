@@ -11,6 +11,9 @@ int main() {
             if (n % 400 == 0) {
             printf("Leap Year");
             }
+            else
+            printf("Not a Leap Year");
+
         }
     }
     else {
