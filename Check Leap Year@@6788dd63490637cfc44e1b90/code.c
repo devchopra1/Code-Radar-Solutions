@@ -15,5 +15,4 @@ int main() {
     }
     else {
         return "Not leap year";
-    return 0;
 }
