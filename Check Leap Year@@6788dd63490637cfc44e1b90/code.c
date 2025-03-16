@@ -3,11 +3,11 @@
 int main() {
     int n;
     scanf("%d",&n);
-            if (year % 100 != 0) {
+            if (n % 100 != 0) {
             return "Leap year.";
         }
         else {
-            if (year % 400 == 0) {
+            if (n % 400 == 0) {
                 return "Leap year.";
             }
         }
