@@ -5,15 +5,15 @@ int main() {
     scanf("%d",&n);
     if (n % 4 == 0) {
             if (n % 100 != 0) {
-            printf("Leap year");
+            printf("Leap Year");
         }
         else {
             if (n % 400 == 0) {
-            printf("Leap year");
+            printf("Leap Year");
             }
         }
     }
     else {
-        printf("Not leap year");
+        printf("Not a Leap Year");
 }
 }
