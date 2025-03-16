@@ -6,6 +6,6 @@ int main() {
     if (n > 0)
     printf("Positive");
     else
-    printf("Negative")
+    printf("Negative");
     return 0;
 }
